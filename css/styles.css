@@ -1,0 +1,146 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+}
+hr {
+  width: 6%;
+  border: 10px dotted;
+  border-style: none none dotted;
+  color: #EAF6F1;
+  margin: 50px auto 50px auto;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  font-family: 'Sacramento', sans-serif;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-weight: bold;
+}
+
+.profile{
+  text-align: center;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  font-family: 'Montserrat',sans-serif;
+  width: 50%
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {}
+
+
+.skill-row{
+   width: 50%;
+   margin:0px auto 100px auto;
+   /* position: relative; */
+   text-align: left;
+   line-height: 2;
+   font-family: 'Montserrat', sans-serif;
+
+
+}
+
+/* .skills-images{
+  width: 35%;
+  position: relative;
+  float: left;
+  margin-right: 30px;
+} */
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: relative;
+  left: 300px
+}
+
+.skill-image{
+  float: left;
+  width: 35%;
+  margin-right: 10px;
+}
+.flutter-image{
+  width: 25%;
+  float: right;
+  margin-bottom: 10px;
+  margin-left: 10px;
+
+}
+.python-image{
+  width: 25%;
+  float: left;
+  margin-right: 10px;
+}
+.contact-me{
+
+  margin: auto auto 20px auto;
+  text-align: center;
+  font-family: 'Montserrat',sans-serif;
+  font-weight: 700;
+  width: 40%;
+  line-height: 2
+}
+.btn {
+  background-color: #11999E;
+  color: #FFFFFF;
+  text-decoration: none;
+  border: none;
+  text-align: center;
+  font-weight:bolder;
+  padding: 10px 20px ;
+  border-radius: 10px;
+  margin-bottom: 10px;
+
+}
+
+.bottom-container {
+  height: 100px;
+  margin-top: 20;
+  background-color:  #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  color: white;
+
+
+}
+.footer-link{
+    font-family:  'Montserrat', sans-serif;
+    text-decoration: none;
+    padding: 30px;
+    color: #11999E;
+    font-weight: 900;
+    text-align: center;
+}
+
+#copyright{
+  padding-bottom: 30px;
+  font-family: 'Montserrat', sans-serif;
+  color: #FFFFFF;
+}
+
+#profile_image {
+  height: 150px;
+  width: 150px;
+}
